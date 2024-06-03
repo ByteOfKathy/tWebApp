@@ -1,0 +1,7 @@
+C:\Users\Kathy\Code\netcore\tWebApp\obj\Debug\net8.0\tWebApp.csproj.AssemblyReference.cache
+C:\Users\Kathy\Code\netcore\tWebApp\obj\Debug\net8.0\tWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kathy\Code\netcore\tWebApp\obj\Debug\net8.0\tWebApp.AssemblyInfoInputs.cache
+C:\Users\Kathy\Code\netcore\tWebApp\obj\Debug\net8.0\tWebApp.AssemblyInfo.cs
+C:\Users\Kathy\Code\netcore\tWebApp\obj\Debug\net8.0\tWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Kathy\Code\netcore\tWebApp\obj\Debug\net8.0\tWebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kathy\Code\netcore\tWebApp\obj\Debug\net8.0\tWebApp.MvcApplicationPartsAssemblyInfo.cache
